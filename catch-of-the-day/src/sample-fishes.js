@@ -2,7 +2,7 @@
 const fishes = {
   fish1: {
     name: 'Pacific Halibut',
-    image: 'https://i.istockimg.com/file_thumbview_approve/36248396/5/stock-photo-36248396-blackened-cajun-sea-bass.jpg',
+    image: 'http://goldriverseafood.com/sites/default/files/halibutRecipe.jpg',
     desc: 'Everyones favorite white fish. We will cut it to the size you need and ship it.',
     price: 1724,
     status: 'available'
@@ -34,7 +34,7 @@ const fishes = {
 
   fish5: {
     name: 'King Crab',
-    image: 'https://i.istockimg.com/file_thumbview_approve/18294110/5/stock-photo-18294110-king-crab-legs.jpg',
+    image: 'https://www.vitalchoice.com/files/products-380px/frc501_whole_king_crab_380.jpg',
     desc: 'Crack these open and enjoy them plain or with one of our cocktail sauces',
     price: 4234,
     status: 'available'
