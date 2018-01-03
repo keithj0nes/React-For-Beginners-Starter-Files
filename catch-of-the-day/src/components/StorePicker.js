@@ -6,6 +6,7 @@ class StorePicker extends React.Component {
   constructor(){
     super();
     this.goToStore = this.goToStore.bind(this)
+
   }
 
   goToStore(e){
@@ -15,6 +16,7 @@ class StorePicker extends React.Component {
     //second transition from / to /store/id
     this.context.router.transitionTo(`/store/${this.storeInput.value}`)
   }
+
 
   render(){
     return (
